@@ -13,9 +13,9 @@
 - Déployer l'application avec un script pipeline 
 
 <b>Livrables</b> : <br>
-	> Fichier compose  <br>
-	> Script pipeline <br>
-	> Video démo des déploiements compose et jenkins<br>
+> Fichier compose  <br>
+> Script pipeline <br>
+> Video démo des déploiements compose et jenkins<br>
 
 `devops-project-voting-app-m1.zip`
  
