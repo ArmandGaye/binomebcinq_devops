@@ -17,7 +17,10 @@
 > Script pipeline <br>
 > Video démo des déploiements compose et jenkins<br>
 
-`devops-project-voting-app-m1.zip`
+
  
+[Fichier source projet `devops-project-voting-app-m1.zip`](https://github.com/ArmandGaye/binomebcinq_devops/blob/main/devops-project-voting-app-m1.zip)
+
+## Architecture
 
 ![Architecture](architecture.excalidraw.png)
